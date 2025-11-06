@@ -1,0 +1,5 @@
+{
+  "name": "C Language Quiz Assistant",
+  "description": "An interactive quiz application that dynamically generates questions about the C programming language using the Gemini API, providing a fun and educational experience for beginners.",
+  "requestFramePermissions": []
+}
